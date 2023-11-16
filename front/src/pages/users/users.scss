@@ -1,0 +1,42 @@
+.enregistrer{
+    margin-right: 10px;
+}
+
+
+.fermer{
+    margin-right: 9px;
+}
+
+.titre{
+    margin-bottom: 25px;
+}
+
+// .statut{
+//     background-color:#ece8e8;
+//     padding: 3px;
+//     justify-content: center;
+//     text-align: center;
+//     align-items: center;
+// }
+
+//   icon 
+.password-icon {
+    position: relative;
+    float: right;
+    cursor: pointer;
+    bottom: 16px;
+    transform: translateY(-50%);
+    display: inline-block;
+    margin-right: 5px;
+
+  }
+  
+  .password-confirm {
+    position: relative;
+    float: right;
+    cursor: pointer;
+    bottom: 16px;
+    transform: translateY(-50%);
+    display: inline-block;
+    margin-right: 5px;
+  }

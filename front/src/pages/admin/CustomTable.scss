@@ -1,0 +1,23 @@
+/* Réduction de la taille des cellules du tableau */
+.custom-table .rdt_TableCell {
+  font-size: 12px;
+
+}
+
+/* Réduction de la hauteur des lignes du tableau */
+.custom-table .rdt_TableRow {
+  padding: 8px 0px;
+  text-align: center;
+}
+
+/* Optionnel : ajustement de la largeur des colonnes du tableau */
+.custom-table .rdt_TableCol {
+  background-color:var(--z-color-2) ;
+  color: #fff;
+  height: 40px;
+  margin-bottom: 0px;
+}
+
+.custom-table .idxdtx {
+  min-height: 0px;
+}

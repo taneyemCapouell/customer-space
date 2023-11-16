@@ -1,0 +1,24 @@
+/* .img {
+  position: fixed;
+  width: 81%;
+  height: 87.5%;
+  margin-left: -10px;
+  border-radius: 5px;
+} */
+
+
+.containe {
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 5px;
+}
+
+.arrr {
+    height: 88vh;
+}
+.iconn {
+    font-size: 100px;
+}
